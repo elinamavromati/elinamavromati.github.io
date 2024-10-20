@@ -1,7 +1,21 @@
 .loukoumi {
-	width: 100%;
+	width: 50%;
+	lenth: 50%;
 
 }
 .makaronia {
-	length:  2%;
+	width:  100%;
+}
+h3 { color: olive; 
+	}
+
+.burger { 
+width: 50%; 
+}
+
+div {
+	margin-bottom: 50px;
+}
+.hello {
+	text-align: center;
 }
